@@ -1,4 +1,8 @@
-Intructions:
+Easy:
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/yosoyjay/selfe_vertical_levels)
+
+More work intructions:
 
 1. Install anaconda 
     - https://www.continuum.io/downloads
